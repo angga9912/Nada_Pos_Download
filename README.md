@@ -2,7 +2,8 @@ Panduan Instalasi Nada POS
 
 1. Download aplikasi
 Buka link ini di HP Android kamu:
-[LINK DOWNLOAD]
+Klik <>Code yang berwana hijau
+Klik Download Zip
 Tunggu sampai file NadaPOS.apk selesai diunduh.
 
 2. Izinkan instalasi
